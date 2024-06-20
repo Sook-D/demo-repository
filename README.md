@@ -11,8 +11,8 @@
 <div>
 	<h2>개발과정</h2>
 	<h3>사용 데이터</h3>
-	![AI Hub] ("https://aihub.or.kr/web-nas/aihub21/files/public/DATA_SET202205180949145120")
 </div>
+![AI Hub] ("https://aihub.or.kr/web-nas/aihub21/files/public/DATA_SET202205180949145120")
 
 <div>
 	<h2>개발과정</h2>
