@@ -17,13 +17,11 @@
 </div>
 
 <div>
-
 	<h2>폭력 감지시스템 작동 방식 </h2>
 	<h3>YOLOv5를 기반으로 하여 제작 </h3>
 	<p align = center>
 		<img src="https://github.com/Sook-D/demo-repository/assets/100902438/0d76f115-d0c5-4bc1-b166-66f45a455baa">
-	</p>
-	
+	</p>	
 </div>
 
 
