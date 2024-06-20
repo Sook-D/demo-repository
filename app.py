@@ -139,7 +139,7 @@ def video_feed():
 
 @app.route('/capture')
 def capture():
-    print("야발")
+    print("detection of violence")
     image_files = os.listdir('static/captures')
     return render_template('capture.html', images=image_files)
 @socketio.on('log_message')
