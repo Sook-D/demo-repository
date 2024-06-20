@@ -31,6 +31,13 @@
 	<p align = center>
 		<img src="https://github.com/Sook-D/demo-repository/assets/100902438/596e7f2b-8d88-42ad-be20-1a3f5c41be47">
 	</p>
+	<h3> View Captured Images 버튼을 클릭하면 지금까지 감지된 폭력 행위들이 담긴 사진목록이 나타난다.</h3>
+	<p align = center>
+		<img src ="https://github.com/Sook-D/demo-repository/assets/100902438/ae59a39d-6ea0-4be5-8edc-7cc0be019e65">
+	</p>
 </div>
 
+<div>
+	
+</div>
 
