@@ -4,8 +4,7 @@
 
 <div>
 	<h2> Project Introduction</h2>
-	<h3>We decided to make violence detection program </h3>
-	<h3>by using other open-source site for Sookmyung Women's University , OSS Team project.</h3>
+	<h4>We decided to make violence detection program by using other open-source site for Sookmyung Women's University , OSS Team project.</h4>
 </div>
 
 <div>
