@@ -28,7 +28,7 @@
 	</p>
 	<h4>[system structure]</h4>
 	<p align = center>
-		<img src="https://github.com/Sook-D/team-repository/blob/main/image/system%20structure.png">
+		<img src="https://github.com/Sook-D/team-repository/blob/main/image/system%20architecture.png">
 	<h5>영상 녹화 장치로부터 소스·데이터를 서버로 보낸 후 서버에서 YOLOv5 모델을 통해 폭력 객체 검출 후 클라이언트에 경계상자생성 사진, 객체 감지로그, 폭력 감지 장면 캡쳐 이미지를 전송한다.</h5>
 </div>
 
