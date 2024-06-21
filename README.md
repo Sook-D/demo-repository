@@ -5,7 +5,8 @@
 <div>
 	<h2> Project Introduction</h2>
 	<h4>We decided to make violence detection program by using other open-source site for Sookmyung Women's University , OSS Team project.</h4>
-	<h4>팀원 : [이연재](https://github.com/lyeonj), [김문원](https://github.com/angkmfirefoxygal), [박은소](https://github.com/parkincow), [김나연](https://github.com/Yeonnies)</h4>
+	<h4>팀원 : <a href="https://github.com/lyeonj/">이연재</a>, <a href="https://github.com/angkmfirefoxygal/">김문원</a>, <a href="https://github.com/parkincow/">박은소</a>, <a href="https://github.com/Yeonnies/">김나연</a>
+	</h4>
 </div>
 
 <div>
