@@ -19,10 +19,14 @@
 <div>
 	<h2>폭력 감지시스템 작동 방식 </h2>
 	<h4>YOLOv5를 기반으로 하여 제작 </h4>
+	<h4>[system diagram]</h4>
 	<p align = center>
 		<img src="https://github.com/Sook-D/team-repository/assets/100902438/71b4d2e5-95a0-4240-bef8-d9f95a001c68">	
-	</p>	
-	<h4>영상감시장치로부터 데이터를 서버로 보낸 후 서버에서 학습된 YOLOv5모델을 사용하여 폭력 객체 검출 후 클라이언트에 경계상자생성 사진, 객체 감지로그, 최근 캡쳐된 사진을 전송한다.</h4>
+	</p>
+	<h4>[system structure]</h4>
+	<p align = center>
+		<img src="https://github.com/Sook-D/team-repository/blob/main/image/system%20structure.png">
+	<h5>영상 녹화 장치로부터 소스·데이터를 서버로 보낸 후 서버에서 YOLOv5 모델을 통해 폭력 객체 검출 후 클라이언트에 경계상자생성 사진, 객체 감지로그, 폭력 감지 장면 캡쳐 이미지를 전송한다.</h5>
 </div>
 
 <div>
