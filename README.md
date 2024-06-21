@@ -22,14 +22,14 @@
 	<p align = center>
 		<img src="https://github.com/Sook-D/team-repository/assets/100902438/71b4d2e5-95a0-4240-bef8-d9f95a001c68">	
 	</p>	
-	<h4>영상감시장치로부터 데이터를 서버로 보낸 후 서버에서 학습된 YOLOv5모델을 사용하여 폭력 객체 검출 후 클라이언트에 경계상자생성 사진, 객체 감지로그, 최근 캡쳐된 사진을 전송합니다.</h4>
+	<h4>영상감시장치로부터 데이터를 서버로 보낸 후 서버에서 학습된 YOLOv5모델을 사용하여 폭력 객체 검출 후 클라이언트에 경계상자생성 사진, 객체 감지로그, 최근 캡쳐된 사진을 전송한다.</h4>
 </div>
 
 <div>
 	<h2> 실행화면 </h2>
-	<h4> 다음 이미지는 유튜브의 복싱영상을 카메라에 보여주고 폭력 행위를 실시간으로 감지하는 모습을 이미지로 찍은 것입니다.</h4>
+	<h4> 다음 이미지는 유튜브의 복싱영상을 카메라에 보여주고 폭력 행위를 실시간으로 감지하는 모습을 이미지로 찍은 것이다.</h4>
 	<p align = center>
-		<img src="https://github.com/Sook-D/demo-repository/assets/100902438/596e7f2b-8d88-42ad-be20-1a3f5c41be47">
+		<img src="https://github.com/Sook-D/team-repository/blob/main/image/mainpage2.png">
 	</p>
 	<h4> View Captured Images 버튼을 클릭하면 지금까지 감지된 폭력 행위들이 담긴 사진목록이 나타난다.</h4>
 	<p align = center>
