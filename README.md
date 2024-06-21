@@ -3,14 +3,14 @@
 </div>
 
 <div>
-	<h2> Project Introduction</h2>
-	<h4>We decided to make violence detection program by using other open-source site for Sookmyung Women's University , OSS Team project.</h4>
+	<h2>프로젝트 소개</h2>
+	<h4>We decided to make violence detection program by using other open-source for Sookmyung Women's University, OSS Team project.</h4>
 	<h4>팀원 : <a href="https://github.com/lyeonj/">이연재</a>, <a href="https://github.com/angkmfirefoxygal/">김문원</a>, <a href="https://github.com/parkincow/">박은소</a>, <a href="https://github.com/Yeonnies/">김나연</a>
 	</h4>
 </div>
 
 <div>
-	<h2>개발과정</h2>
+	<h2>개발 과정</h2>
 	<h4>사용 데이터 : AI hub 의 이상행동 cctv 데이터</h4>
  	<p align = center>
 	<img src ="https://github.com/Sook-D/demo-repository/assets/100902438/cd79ec8f-1846-46df-9c69-81e42f791a0e" >
@@ -18,7 +18,7 @@
 </div>
 
 <div>
-	<h2>폭력 감지시스템 작동 방식 </h2>
+	<h2>폭력 감지 시스템 작동 방식 </h2>
 	<h4>YOLOv5를 기반으로 하여 제작 </h4>
 	<h4>[system diagram]</h4>
 	<p align = center>
