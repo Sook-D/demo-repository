@@ -27,11 +27,14 @@
 
 <div>
 	<h2> 실행화면 </h2>
-	<h4> 다음 이미지는 유튜브의 복싱영상을 카메라에 보여주고 폭력 행위를 실시간으로 감지하는 모습을 이미지로 찍은 것이다.</h4>
 	<p align = center>
-		<img src="https://github.com/Sook-D/team-repository/blob/main/image/mainpage2.png">
+		<img src="https://github.com/Sook-D/team-repository/blob/main/image/mainpage_default.png">
 	</p>
-	<h4> View Captured Images 버튼을 클릭하면 지금까지 감지된 폭력 행위들이 담긴 사진목록이 나타난다.</h4>
+	<h4> 다음 이미지는 유튜브의 복싱영상을 카메라에 보여주고 폭력 행위를 실시간으로 감지하는 모습을 캡처한 이미지이다.</h4>
+	<p align = center>
+		<img src="https://github.com/Sook-D/team-repository/blob/main/image/mainpage_detection%20of%20violence.png">
+	</p>
+	<h4> View Captured Images 버튼을 클릭하면 지금까지 감지된 폭력 행위들이 담긴 이미지 내역이 보여진다.</h4>
 	<p align = center>
 		<img src ="https://github.com/Sook-D/demo-repository/assets/100902438/ae59a39d-6ea0-4be5-8edc-7cc0be019e65">
 	</p>
